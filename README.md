@@ -38,6 +38,6 @@ GUI-плеер на PyQt5 с кольцевым двусвязным списк�
     ```
 
 ## Запуск
-- ```bash 
-python player_gui.py
+- 
+```bash python player_gui.py
 ```
