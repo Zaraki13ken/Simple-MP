@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pylint cache
+.pylint.d/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# MyPy cache
+.mypy_cache
