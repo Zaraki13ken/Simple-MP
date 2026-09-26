@@ -301,7 +301,7 @@ class PlayerWindow(QMainWindow):
         self.btn_move_up.clicked.connect(self._on_move_up)
         self.btn_move_down.clicked.connect(self._on_move_down)
 
-        self.btn_play.clicked.connect(self._on_play)
+        self.btn_play.clicked.connect(self.on_play)
         self.btn_next.clicked.connect(self._on_next)
         self.btn_prev.clicked.connect(self._on_previous)
         self.btn_stop.clicked.connect(self._on_stop)
